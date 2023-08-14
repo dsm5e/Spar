@@ -78,6 +78,7 @@
 				3C5819CA2A8A9E5A00197E2E /* SparApp.swift */,
 				3C5819D82A8A9E8F00197E2E /* Model */,
 				3C5819D92A8A9E9400197E2E /* View */,
+				3C5819EB2A8ABB1700197E2E /* ViewModel */,
 				3C5819CE2A8A9E5D00197E2E /* Assets.xcassets */,
 				3C5819D02A8A9E5D00197E2E /* Preview Content */,
 			);
@@ -110,7 +111,6 @@
 				3C5819DC2A8A9ED500197E2E /* Trash */,
 				3C5819DD2A8A9EE300197E2E /* Profile */,
 				3C5819DB2A8A9EC900197E2E /* Catalog */,
-				3C5819EB2A8ABB1700197E2E /* ViewModel */,
 			);
 			path = View;
 			sourceTree = "<group>";

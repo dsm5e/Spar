@@ -18,10 +18,8 @@ struct MainView: View {
             
             Divider()
             
-            
             ScrollView {
                 VStack(spacing: 20) {
-                    
                     ScrollView(.horizontal, showsIndicators: false) {
                         HStack {
                             ForEach(vm.stories) { cell in
